@@ -1,0 +1,10 @@
+{
+  "name": "node-dyalna-identity",
+  "version": "1.0.0",
+  "description": "Security Middleware for Dyalna identity server",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "request-json": "^0.5.2"
+  }
+}
